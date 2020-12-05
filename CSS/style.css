@@ -19,19 +19,19 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('../images/123sxr.jpg');
+  background-image: url('../Images/123sxr.jpg');
   min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("../images/bt71NA7.jpg");
+  background-image: url("../Images/bt71NA7.jpg");
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("../images/dtBUZs.jpg");
+  background-image: url("../Images/dtBUZs.jpg");
   min-height: 400px;
 }
 
